@@ -1,3 +1,14 @@
+.outerDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.photHo {
+  width: 320px;
+  height: 320px;
+}
+
 .jay1 {
   color: red;
+  text-align: center;
 }
