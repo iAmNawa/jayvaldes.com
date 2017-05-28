@@ -6,9 +6,15 @@
 .photHo {
   width: 320px;
   height: 320px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 5px 5px 10px #888888;
+  border-radius: 50%;
 }
 
 .jay1 {
-  color: red;
   text-align: center;
+  text-shadow: 2px 2px 5px orange;
+  font-family: 'Kaushan Script', cursive;
 }
